@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://allgm.netlify.app/sitemap.xml
